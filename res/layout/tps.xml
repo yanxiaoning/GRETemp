@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent" android:layout_height="fill_parent"  
+    android:orientation="vertical">  
+     
+     
+        <TableRow android:orientation="vertical" android:layout_weight="3">  
+                <TextView
+android:id="@+id/tvword"
+
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:layout_weight="1"
+android:textSize="20sp"
+android:textColor="#dda0dd"
+>
+</TextView> 
+             
+             
+        </TableRow>  
+         <TableRow android:orientation="vertical" android:layout_weight="6">  
+                 
+            <TextView
+android:id="@+id/tvtrans"
+
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:layout_weight="1"
+>
+</TextView> 
+             
+        </TableRow>  
+        
+         <TableRow android:orientation="horizontal" android:layout_weight="6">  
+                 
+            <RadioGroup
+android:id="@+id/rg"
+
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:layout_weight="1"
+>
+<!--第一個RadioButton -->
+<RadioButton
+android:id="@+id/rb1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/rb1"
+/>
+<!--第二個RadioButton -->
+<RadioButton
+android:id="@+id/rb2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/rb2"
+/>
+
+<RadioButton
+android:id="@+id/rb3"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/rb3"
+/>
+
+
+
+
+
+</RadioGroup> 
+
+<Button
+android:id="@+id/btDisplayChinese"
+
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+
+android:text="显示中文"
+>
+</Button>             
+        </TableRow>  
+        
+              
+     
+     <TableRow android:orientation="horizontal" android:layout_weight="1">  
+        
+        <Button
+android:id="@+id/btlast"
+
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+
+android:text="previous"
+>
+</Button>
+        <Button
+android:id="@+id/btnext"
+
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+
+android:text="next"  
+>
+</Button>
+   </TableRow>
+     
+    
+    
+</TableLayout>  

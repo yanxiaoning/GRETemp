@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Welcome!</string>
+    <string name="app_name">GRE掌上红宝</string>
+<string name="str_main">主界面</string>
+<string name="str_main_2">主界面2</string>
+<string name="str_main_3">主界面3</string>
+<string name="str_main_4">主界面4</string>
+<string name="str_main_5">主界面5</string>
+<string name="str_main_6">主界面6</string>
+
+<string name="btnext">下一个</string>
+<string name="btlast">上一个</string>
+<string name="str_btm">主菜单</string>
+<string name="str_tps">本list记忆程度检测</string>
+<string name="str_test">本list记忆程度检测</string>
+<string name="rb1">完全不熟</string>
+<string name="rb2">似曾相识</string>
+<string name="rb3">了然于胸</string>
+<string name="str_hardwords">本list我的难词</string>
+<string name="str_bthl">返回难词表</string>
+
+<string name="ib1">ib1</string>
+<string name="ib2">ib2</string>
+
+<string name="iv_1">iv_1</string>
+
+<string name="iv_2">iv_2</string>
+<string name="iv_3">iv_3</string>
+<string name="iv_4">iv_4</string>
+<string name="iv_5">iv_5</string>
+<string name="iv_6">iv_6</string>
+<string name="iv_7">iv_7</string>
+<string name="iv_8">iv_8</string>
+<string name="iv_9">iv_9</string>
+<string name="iv_10">iv_10</string>
+<string name="iv_11">iv_11</string>
+<string name="iv_12">iv_12</string>
+<string name="iv_13">iv_13</string>
+<string name="iv_14">iv_14</string>
+<string name="iv_15">iv_15</string>
+<string name="iv_16">iv_16</string>
+<string name="iv_17">iv_17</string>
+<string name="iv_18">iv_18</string>
+<string name="iv_19">iv_19</string>
+<string name="iv_20">iv_20</string>
+<string name="iv_21">iv_21</string>
+<string name="iv_22">iv_22</string>
+<string name="iv_23">iv_23</string>
+<string name="iv_24">iv_24</string>
+<string name="iv_25">iv_25</string>
+<string name="iv_26">iv_26</string>
+<string name="iv_27">iv_27</string>
+<string name="iv_28">iv_28</string>
+<string name="iv_29">iv_29</string>
+<string name="iv_30">iv_30</string>
+<string name="iv_31">iv_31</string>
+<string name="iv_32">iv_32</string>
+<string name="iv_33">iv_33</string>
+<string name="iv_34">iv_34</string>
+<string name="iv_35">iv_35</string>
+<string name="iv_36">iv_36</string>
+<string name="iv_37">iv_37</string>
+<string name="iv_38">iv_38</string>
+<string name="iv_39">iv_39</string>
+<string name="iv_40">iv_40</string>
+<string name="iv_41">iv_41</string>
+<string name="iv_42">iv_42</string>
+<string name="iv_43">iv_43</string>
+<string name="iv_44">iv_44</string>
+<string name="iv_45">iv_45</string>
+<string name="iv_46">iv_46</string>
+<string name="iv_47">iv_47</string>
+<string name="iv_48">iv_48</string>
+<string name="iv_49">iv_49</string>
+
+ <string name="iv_n1">iv_n1</string>
+    <string name="iv_n2">iv_n2</string>
+    <string name="iv_n3">iv_n3</string>
+    <string name="iv_n4">iv_n4</string>
+    <string name="iv_n5">iv_n5</string>
+    <string name="iv_n6">iv_n6</string>
+    <string name="iv_n7">iv_n7</string>
+
+<string name="str_m_l_words">本list我的模糊词</string>
+<string name="tvRate">tvRate</string>
+<string name="str_set">设置</string>
+<string name="str_similarWords">查看其在书中的形近词</string>
+<string name="bt_lookSimilar">在书中的形近词</string>
+<string name="btLog">我的记录</string>
+<string name="ib11">ib11</string>
+<string name="ib22">ib22</string>
+</resources>

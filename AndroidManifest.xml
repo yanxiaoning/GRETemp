@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.ningo.gk"
+      android:versionCode="1"
+      android:versionName="2.4"
+      >
+      <uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <application android:icon="@drawable/app_icon" android:label="@string/app_name">
+        <activity android:name=".Welcome"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<activity
+android:name="MainPage"
+android:label="@string/str_main">
+</activity>
+
+<activity
+android:name="WordPage"
+>
+</activity>
+
+<activity
+android:name="TestPage"
+android:label="@string/str_tps"
+android:screenOrientation="portrait">
+</activity>
+
+<activity
+android:name="MyListView"
+android:label="难词列表">
+</activity>
+
+<activity
+android:name="HardWordPage"
+android:label="我的难词">
+</activity>
+
+<activity
+android:name="Mid_level_ClearUp"
+android:label="消灭模糊词">
+</activity>
+<activity
+android:name="MLWordPage"
+android:label="我的模糊词">
+</activity>
+
+<activity
+android:name="WordSearchActivity"
+android:label="单词搜索"
+android:screenOrientation="portrait">
+</activity>
+
+
+<activity android:name="SetPage" android:label="设置"></activity>
+<activity android:name="NavigatePage"
+    android:screenOrientation="portrait"></activity>
+<activity android:name="SimilarWordsPage" android:label="与它相关的形近词"></activity>
+<activity android:name="SingleSimilarWordsPage" android:label="形近词详情"></activity>
+<activity android:name="LogView" android:label="学习日志"></activity>
+<meta-data android:name="gfan_statistics_appkey" android:value="71ba98c5145048d98133e2a2061fd1ca" /> 
+<meta-data android:name="gfan_cpid" android:value="gfan.com"/>
+
+    </application>
+    <uses-sdk android:minSdkVersion="4" />
+</manifest> 
